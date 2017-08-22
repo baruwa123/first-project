@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1 /xhtml1-strict.dtd">
+<html xmlns= "http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<style type="text/css">body {background-color: #FF99FF ; font-size: 25px;} h1 {color: white; font-family:Agency fb;  font-size: 40px; } p {color: white ; font-size: 25px; font-family:Agency fb;}
+</style>
+</head>
+</html>
+<title>HOTELS.NG </title>	
+</head>
+</html>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align=center>HOTELS NG</h1>
+<br>
+<p align=center>ABOUT OUR COMPANY</p> 
+<body background= a href="filename" link=white  alink=white  vlink=silver align=left>
+<font face= "Agency fb"><a href="filename">Expenditure</a><br> <a href="filename">Internship Stages</a><br> <a href="filename">Frontend Basics</a><br> <a href="filename">Git Command Line</a><br> <a href="filename">Backend Basics</a>
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<form action="Myform.asp" method="post">
+Your name:<input type="text" name="name"><br>
+Your Email:<input type="text" name="email"<br>
+Enter your password:<input name="password" type="password" size=20<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+<font-size: 12px><a href="filename">Contact us</a> <a href="filename">Libraries</a> <a href="Email">Email</a>
+</font>
